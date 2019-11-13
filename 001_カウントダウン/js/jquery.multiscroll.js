@@ -788,8 +788,8 @@
 			$("#right1").insertAfter("#left1");
 		    $("#right2").insertAfter("#left1");
 		    $("#right3").insertAfter("#left3");
-		    $("#right4").insertAfter("#left4");
-		    $("#right5").insertAfter("#left5");
+		    // $("#right4").insertAfter("#left4");
+		    // $("#right5").insertAfter("#left5");
 		    // $("#right6").insertAfter("#left6");
 		    // $("#right7").insertAfter("#left7");
 		    // $("#right8").insertAfter("#left8");
@@ -809,8 +809,8 @@
 			$("#right1").prependTo("#right-part");
 		    $("#right2").prependTo("#right-part");
 		    $("#right3").prependTo("#right-part");
-		    $("#right4").prependTo("#right-part");
-		    $("#right5").prependTo("#right-part");
+		    // $("#right4").prependTo("#right-part");
+		    // $("#right5").prependTo("#right-part");
 		    // $("#right6").prependTo("#right-part");
 		    // $("#right7").prependTo("#right-part");
 		    // $("#right8").prependTo("#right-part");
