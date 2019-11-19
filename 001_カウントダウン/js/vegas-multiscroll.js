@@ -13,9 +13,9 @@ $(document).ready(function(){
 
     $('.slideshow-home-left').vegas({
         slides: [
-            { src: 'img/left-1.jpg' },
-            { src: 'img/left-2.jpg' },
-            { src: 'img/left-3.jpg' },
+            { src: 'img/left-1.jpg?20191113' },
+            { src: 'img/left-2.jpg?20191113' },
+            { src: 'img/left-3.jpg?20191113' },
         ],
 
         // Delay beetween slides in milliseconds.
@@ -30,9 +30,9 @@ $(document).ready(function(){
 
     $('.slideshow-home-right').vegas({
         slides: [
-            { src: 'img/right-1.jpg' },
-            { src: 'img/right-2.jpg' },
-            { src: 'img/right-3.jpg' },
+            { src: 'img/right-1.jpg?20191113' },
+            { src: 'img/right-2.jpg?20191113' },
+            { src: 'img/right-3.jpg?20191113' },
         ],
 
         // Delay beetween slides in milliseconds.
@@ -47,9 +47,9 @@ $(document).ready(function(){
 
     $('.slideshow-about').vegas({
         slides: [
-            { src: 'img/slide-1.jpg' },
-            { src: 'img/slide-2.jpg' },
-            { src: 'img/slide-3.jpg' },
+            { src: 'img/slide-1.jpg?20191113' },
+            { src: 'img/slide-2.jpg?20191113' },
+            { src: 'img/slide-3.jpg?20191113' },
         ],
 
         // Delay beetween slides in milliseconds.
@@ -61,9 +61,9 @@ $(document).ready(function(){
 
     $('.slideshow-services').vegas({
         slides: [
-            { src: 'img/slide-1.jpg' },
-            // { src: 'img/slide-2.jpg' },
-            // { src: 'img/slide-3.jpg' },
+            { src: 'img/slide-1.jpg?20191113' },
+            // { src: 'img/slide-2.jpg?20191113' },
+            // { src: 'img/slide-3.jpg?20191113' },
         ],
 
         // Delay beetween slides in milliseconds.

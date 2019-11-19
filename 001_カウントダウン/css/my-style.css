@@ -4,3 +4,9 @@
 .paragraph2 {
 	margin-top: 0.5em;
 }
+.blue-icon {
+	color: #323a45;
+}
+.blue-icon:hover {
+	color: #a94442;
+}

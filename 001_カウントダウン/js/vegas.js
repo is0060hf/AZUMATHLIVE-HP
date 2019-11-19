@@ -13,9 +13,9 @@ $(document).ready(function(){
 
     $('.slideshow-home').vegas({
         slides: [
-            { src: 'img/home-slide-1.jpg' },
-            { src: 'img/home-slide-2.jpg' },
-            { src: 'img/home-slide-3.jpg' },
+            { src: 'img/home-slide-1.jpg?20191113' },
+            { src: 'img/home-slide-2.jpg?20191113' },
+            { src: 'img/home-slide-3.jpg?20191113' },
         ],
 
         // Delay beetween slides in milliseconds.
@@ -27,9 +27,9 @@ $(document).ready(function(){
 
     $('.slideshow-about').vegas({
         slides: [
-            { src: 'img/slide-1.jpg' },
-            { src: 'img/slide-2.jpg' },
-            { src: 'img/slide-3.jpg' },
+            { src: 'img/slide-1.jpg?20191113' },
+            { src: 'img/slide-2.jpg?20191113' },
+            { src: 'img/slide-3.jpg?20191113' },
         ],
 
         // Delay beetween slides in milliseconds.
@@ -41,9 +41,9 @@ $(document).ready(function(){
 
     $('.slideshow-services').vegas({
         slides: [
-            { src: 'img/slide-1.jpg' },
-            // { src: 'img/slide-2.jpg' },
-            // { src: 'img/slide-3.jpg' },
+            { src: 'img/slide-1.jpg?20191113' },
+            // { src: 'img/slide-2.jpg?20191113' },
+            // { src: 'img/slide-3.jpg?20191113' },
         ],
 
         // Delay beetween slides in milliseconds.
